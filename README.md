@@ -4,7 +4,6 @@ Matplotlib is a **data visualization library** in Python used to create **static
  ✅ Works With:
 * **NumPy**
 * **Pandas**
-* **SciPy**
 * Other scientific libraries
 
 📌 Types of Visualizations in Matplotlib:
@@ -13,11 +12,8 @@ Matplotlib is a **data visualization library** in Python used to create **static
 * **Histogram** – To show frequency distribution of data.
 * **Pie Chart** – To show proportions of a whole.
 * **Scatter Plot** – To visualize the relationship between two variables.
-* **Stack Plot (Area Plot)** – To show data distribution over time.
-* **Stem Plot** – To display discrete data points.
 * **Box Plot (Whisker Plot)** – To show statistical summary of data.
 * **3D Plot** – For three-dimensional data visualization.
-* **Heatmap (via matplotlib + seaborn)** – To visualize data intensity.
 
 ⚡ Key Features:
 * 2D and 3D plotting capabilities
